@@ -7,3 +7,6 @@ It is a very simple app created using Android Studio Kotlin which uses the mobil
 
 ### Note - 
 To run the app the user's phone must have the required 'Step Counter Sensor and Accelerometer sensor' 
+
+## Screenshot - 
+<img src = "https://github.com/Dhruv-194/MLHinitHealthApp/blob/master/Screenshot/Screenshot_20210630-030119.png" width = "200" height = "400" >
